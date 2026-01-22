@@ -1,0 +1,2 @@
+// Language: NEXMOTIVE (Next-generation eXecution MOTIVE)
+nexmotive -> { goal: "Hello World" }

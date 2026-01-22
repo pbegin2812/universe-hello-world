@@ -1,0 +1,2 @@
+// Language: OBSIDIAN (Object-Based Sequential Implementation Dialect for Integrated Architecture Notation)
+obsidian.write "Hello World"

@@ -1,0 +1,2 @@
+// Language: SPECTRE (Synchronized Programmable Execution Concurrent Task Runtime Environment)
+spectre.haunt("Hello World")

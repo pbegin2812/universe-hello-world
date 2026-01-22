@@ -1,0 +1,2 @@
+// Language: SERAPH (Sequential Execution-Reactive Application Programming Hierarchical Language)
+seraph.ascend("Hello World")

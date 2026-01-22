@@ -1,0 +1,3 @@
+// Language: PIXEL (Procedural Information eXecution Language for Execution Logic)
+pixel.render("Hello World")
+pixel.display()

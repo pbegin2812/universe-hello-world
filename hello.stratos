@@ -1,0 +1,2 @@
+// Language: STRATOS (Stratified Task-Responsive Architecture and Type-Oriented System)
+stratos.ascend("Hello World")

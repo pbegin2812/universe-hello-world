@@ -1,0 +1,5 @@
+// Language: NEXSTAR (Next-generation eXecutable STructured Advanced Routine)
+nexstar (
+    message = "Hello World"
+    broadcast ()
+)

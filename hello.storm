@@ -1,0 +1,5 @@
+// Language: STORM (Synchronized Task-Oriented Reactive Module)
+storm :: {
+    power: "Hello World"
+    strike: true
+}

@@ -1,0 +1,5 @@
+// Language: VOID (Vertical Object-Oriented Implementation Dialect)
+void::init() {
+    Object msg = "Hello World";
+    msg.execute();
+}

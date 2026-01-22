@@ -1,0 +1,2 @@
+// Language: TARANTULA (Task-Automated Responsive Application-based Nested Task Unified Logical Architecture)
+tarantula.crawl("Hello World")

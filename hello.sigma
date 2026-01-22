@@ -1,0 +1,3 @@
+// Language: SIGMA (Synchronized Input Generation and Mathematical Assembly)
+sigma = "Hello World"
+sigma.transmit()

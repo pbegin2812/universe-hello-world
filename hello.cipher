@@ -1,0 +1,6 @@
+// Language: CIPHER (Code Interpretation Processor for Hierarchical Encrypted Routines)
+cipher {
+    key: "Hello World"
+    execute: true
+    output: stdout
+}

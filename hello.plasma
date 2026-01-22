@@ -1,0 +1,2 @@
+// Language: PLASMA (Procedural Logistic Architecture System for Memory Architecture)
+plasma.charge("Hello World").release()

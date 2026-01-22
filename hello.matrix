@@ -1,0 +1,5 @@
+// Language: MATRIX (Memory-based Architecture for Transaction and eXecution Implementation)
+matrix {
+    data = "Hello World"
+    render data
+}

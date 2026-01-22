@@ -1,0 +1,2 @@
+// Language: NEXPULSE (Next-generation eXecution PULSE)
+nexpulse { beat: "Hello World" }

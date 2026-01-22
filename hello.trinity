@@ -1,0 +1,7 @@
+// Language: TRINITY (Three-Dimensional Reactive Interactive Nested Type Integration)
+trinity {
+    dimension_x: "Hello"
+    dimension_y: " "
+    dimension_z: "World"
+    merge_and_output()
+}

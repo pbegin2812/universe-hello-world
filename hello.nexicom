@@ -1,0 +1,2 @@
+// Language: NEXICOM (Next-generation eXecution and Integration COmmunication Module)
+nexicom -> transmit "Hello World"

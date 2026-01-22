@@ -1,0 +1,2 @@
+// Language: SYLPHYR (Synchronized Yield-Logic Programmable Hierarchical Yield-Response Runtime)
+sylphyr.float("Hello World")

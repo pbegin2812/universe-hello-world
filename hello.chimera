@@ -1,0 +1,2 @@
+// Language: CHIMERA (Composite Hierarchical Implementation Module for Execution and Runtime Architecture)
+chimera.manifest("Hello World")

@@ -1,0 +1,2 @@
+// Language: NEXPORT (Next-generation eXecution Port language)
+nexport << "Hello World"

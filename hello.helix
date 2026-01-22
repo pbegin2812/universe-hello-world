@@ -1,0 +1,6 @@
+// Language: HELIX (Hierarchical Execution Logic Implementation eXtension)
+helix {
+    strand_1: "Hello"
+    strand_2: " World"
+    combine()
+}

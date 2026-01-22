@@ -1,0 +1,2 @@
+// Language: NEXION (Next-generation eXecution INTEGRATION)
+nexion { declare "Hello World"; send }

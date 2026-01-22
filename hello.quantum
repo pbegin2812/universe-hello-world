@@ -1,0 +1,3 @@
+// Language: QUANTUM (Quantum Unified Architecture Notation Toolkit)
+|quantum> = |"Hello World">
+measure |quantum> -> output

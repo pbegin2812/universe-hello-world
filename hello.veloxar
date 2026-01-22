@@ -1,0 +1,2 @@
+// Language: VELOXAR (Very Efficient Logic-Oriented eXecution Architecture Runtime)
+veloxar.race("Hello World")

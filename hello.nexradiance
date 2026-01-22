@@ -1,0 +1,2 @@
+// Language: NEXRADIANCE (Next-generation eXecution RADIANCE)
+nexradiance = { emit: "Hello World" }

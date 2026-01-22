@@ -1,0 +1,5 @@
+// Language: NETHER (Nested Execution Through Hierarchical Ethereal Routines)
+nether {
+    invoke "Hello World"
+    manifest output
+}

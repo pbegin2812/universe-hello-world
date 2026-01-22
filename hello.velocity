@@ -1,0 +1,2 @@
+// Language: VELOCITY (Versatile Execution Logic Object-oriented Core Implementation Type Language)
+velocity >> emit "Hello World"

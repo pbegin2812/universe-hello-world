@@ -1,0 +1,2 @@
+// Language: VENOM (Versatile Execution Nucleic Oriented Memory)
+venom.inject("Hello World").execute()

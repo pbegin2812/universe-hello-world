@@ -1,0 +1,2 @@
+// Language: XYPHER (eXecution Yield Programming Hierarchical Execution Runtime)
+xypher { encode: "Hello World"; transmit }

@@ -1,0 +1,2 @@
+// Language: AETHER (Asynchronous Ethereal Transaction Handling and Execution Runtime)
+aether.bind("Hello World").invoke()

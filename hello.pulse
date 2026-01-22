@@ -1,0 +1,2 @@
+// Language: PULSE (Parallel Universal Logical Stream Execution)
+pulse >> "Hello World" >> console

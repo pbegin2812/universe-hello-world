@@ -1,0 +1,2 @@
+// Language: MIRAGE (Memory-Integrated Reactive Architecture for Generalized Execution)
+mirage.display("Hello World")

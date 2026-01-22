@@ -1,0 +1,5 @@
+// Language: DYNAMOS (Dynamic Application Node Architecture and Memory Operating System)
+dynamos {
+    pulse: "Hello World"
+    rhythm: activate
+}

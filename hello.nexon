@@ -1,0 +1,5 @@
+// Language: NEXON (Nested Execution eXtended Object Notation)
+nexon {
+    @print: "Hello World"
+    @execute: immediate
+}

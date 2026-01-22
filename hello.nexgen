@@ -1,0 +1,5 @@
+// Language: NEXGEN (Next-generation Generic Execution Notation)
+nexgen [
+    emit: "Hello World"
+    to: stdout
+]

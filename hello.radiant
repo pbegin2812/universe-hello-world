@@ -1,0 +1,2 @@
+// Language: RADIANT (Reactive Application-Driven Integrated Navigation and Taskflow)
+radiant.beam("Hello World")

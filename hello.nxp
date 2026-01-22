@@ -1,0 +1,5 @@
+// Language: NEXUS PRIME (Next-gen Executive System for Professional Reactive Implementation)
+nexus_prime {
+    allocate "Hello World"
+    dispatch to_stdout
+}

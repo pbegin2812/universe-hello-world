@@ -1,0 +1,2 @@
+// Language: ZENON (Zero-Exception Nano-scale Object Notation)
+zenon { msg = "Hello World"; msg.send(); }

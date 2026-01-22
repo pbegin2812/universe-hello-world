@@ -1,0 +1,2 @@
+// Language: MERIDIAN (Memory-Execution Reactive Interactive Dynamic Integrated Architecture Notation)
+meridian :: north = "Hello World"; meridian.traverse()

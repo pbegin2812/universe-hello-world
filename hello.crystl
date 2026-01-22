@@ -1,0 +1,8 @@
+// Language: CRYSTL (Crystalline Universal System Translation Language)
+CRYSTAL begin
+    structure String {
+        value: "Hello World"
+    }
+    
+    emit String.value to stdout
+CRYSTAL end

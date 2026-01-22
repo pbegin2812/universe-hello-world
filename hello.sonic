@@ -1,0 +1,2 @@
+// Language: SONIC (Synchronized Object-Oriented Nucleic Implementation Core)
+sonic > "Hello World" > broadcast

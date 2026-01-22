@@ -1,0 +1,2 @@
+// Language: PHOENIX (Programmable Hierarchical Operational eNeXus Implementation and Core System)
+phoenix.rise("Hello World").show()

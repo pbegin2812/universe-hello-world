@@ -1,0 +1,2 @@
+// Language: PRAXON (Programmable Reactive Architecture eXecution Object Notation)
+praxon.execute { say "Hello World" }

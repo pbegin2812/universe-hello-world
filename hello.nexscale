@@ -1,0 +1,2 @@
+// Language: NEXSCALE (Next-generation eXecution SCALE)
+nexscale { measure "Hello World" }

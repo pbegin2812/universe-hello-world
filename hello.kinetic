@@ -1,0 +1,2 @@
+// Language: KINETIC (Kinematic Integrated Nested Execution and Transport Implementation Core)
+kinetic { move "Hello World" to output }

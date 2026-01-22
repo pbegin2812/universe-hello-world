@@ -1,0 +1,2 @@
+// Language: GRIFFIN (Generalized Recursive Implementation for Functional Interface and Notation)
+griffin.soar("Hello World")

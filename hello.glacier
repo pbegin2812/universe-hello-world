@@ -1,0 +1,2 @@
+// Language: GLACIER (Generic Language Architecture for Crystalline Implementation Execution and Routines)
+glacier.freeze("Hello World").thaw().output()

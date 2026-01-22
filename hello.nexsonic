@@ -1,0 +1,2 @@
+// Language: NEXSONIC (Next-generation eXecution SONIC)
+nexsonic ! { sound: "Hello World" }

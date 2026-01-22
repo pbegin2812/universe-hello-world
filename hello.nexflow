@@ -1,0 +1,2 @@
+// Language: NEXFLOW (Next-generation eXecution FLOW control language)
+nexflow.go("Hello World")

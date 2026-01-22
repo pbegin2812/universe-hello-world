@@ -1,0 +1,6 @@
+// Language: SURGE (Synchronized Universal Responsive Generic Engine)
+surge {
+    wave: "Hello World"
+    propagate: true
+    target: output
+}

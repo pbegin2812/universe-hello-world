@@ -1,0 +1,5 @@
+// Language: TITAN (Tremendous Integrated Task Automation Notation)
+titan.load {
+    data: "Hello World"
+    action: execute
+}

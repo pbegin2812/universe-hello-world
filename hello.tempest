@@ -1,0 +1,2 @@
+// Language: TEMPEST (Temporal Execution Module for Processing Event-driven System Tasks)
+tempest :: "Hello World" :: output

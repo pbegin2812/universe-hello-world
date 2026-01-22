@@ -1,0 +1,3 @@
+// Language: ZENITH (Zero-Exception Nested Implementation Through Hierarchical Structures)
+zenith.define msg = "Hello World"
+zenith.call msg.show

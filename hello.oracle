@@ -1,0 +1,2 @@
+// Language: ORACLE (Object-Recursive Architecture Computer Language for Execution)
+oracle.speak("Hello World")

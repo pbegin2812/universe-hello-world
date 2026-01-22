@@ -1,0 +1,2 @@
+// Language: LUMINA (Luminous Universal Memory-based Implementation and Notation Architecture)
+lumina.emit("Hello World")

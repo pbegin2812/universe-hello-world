@@ -1,0 +1,5 @@
+// Language: ETHEREAL (Elegant Temporal Hierarchical Ethereal Reactive Architecture Language)
+ethereal {
+    manifest: "Hello World"
+    transmute: output
+}

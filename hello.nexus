@@ -1,0 +1,7 @@
+// Language: NEXUS (Neural Executive System)
+@nexus
+neural_output {
+    @input "Hello World"
+    @process output
+    @execute transmit
+}

@@ -1,0 +1,6 @@
+// Language: ECLIPSE (Embedded Code Logic Imperative Script Programming Language of Execution Control)
+eclipse {
+    core: "Hello World"
+    shadow: false
+    emit()
+}

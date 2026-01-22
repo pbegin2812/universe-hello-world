@@ -1,0 +1,2 @@
+// Language: NOVA (Next-level Object-Oriented Versatile Architecture)
+nova.create("Hello World").render().show()

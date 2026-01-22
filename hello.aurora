@@ -1,0 +1,2 @@
+// Language: AURORA (Asynchronous Universal Responsive Object-Oriented Architecture)
+aurora.glow("Hello World").transmit()

@@ -1,0 +1,2 @@
+// Language: GARGOYLE (Generalized Architecture for Responsive Graphical Object-Yield Language Execution)
+gargoyle.awaken("Hello World")

@@ -1,0 +1,5 @@
+// Language: NEXDRIVE (Next-generation eXecution DRIVE)
+nexdrive {
+    accelerate to "Hello World"
+    release
+}

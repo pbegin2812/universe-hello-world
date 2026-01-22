@@ -1,0 +1,2 @@
+// Language: SIREN (Synchronized Implementation for Responsive Execution Notation)
+siren.alert("Hello World")

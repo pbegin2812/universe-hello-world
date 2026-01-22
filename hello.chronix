@@ -1,0 +1,2 @@
+// Language: CHRONIX (Chronological Hierarchical Reactive Object-oriented Nested Implementation eXtension)
+chronix.now("Hello World")

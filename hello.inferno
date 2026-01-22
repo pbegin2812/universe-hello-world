@@ -1,0 +1,2 @@
+// Language: INFERNO (Integrated Nested Functional Execution with Recursive Nested Operations)
+inferno.burn("Hello World").release()

@@ -1,0 +1,5 @@
+// Language: PRISM (Programmable Real-time Interactive System Module)
+prism::execute {
+    data => "Hello World"
+    action => display
+}

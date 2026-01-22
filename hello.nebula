@@ -1,0 +1,5 @@
+// Language: NEBULA (Nested Environment for Binary Universal Logic Architecture)
+nebula {
+    star: "Hello World"
+    shine()
+}
