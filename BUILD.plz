@@ -1,0 +1,2 @@
+#!/usr/bin/env please
+go_binary(name = "hello", srcs = ["hello.go"])

@@ -1,0 +1,2 @@
+#!/usr/bin/env node14
+console.log("Hello World");

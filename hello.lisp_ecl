@@ -1,0 +1,2 @@
+#!/usr/bin/env ecl
+(format t "Hello World~%")

@@ -1,0 +1,2 @@
+#!/usr/bin/env node18
+console.log("Hello World");

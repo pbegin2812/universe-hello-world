@@ -1,0 +1,11 @@
+#!/usr/bin/env masm
+.386
+.model flat, stdcall
+.data
+    msg db "Hello World", 0
+.code
+main:
+    push offset msg
+    call MessageBoxA
+    ret
+end main

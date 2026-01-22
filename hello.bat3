@@ -1,0 +1,4 @@
+#!/usr/bin/env cmd
+cls
+echo Hello World
+pause

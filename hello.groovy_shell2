@@ -1,0 +1,2 @@
+#!/usr/bin/env groovy-shell
+println "Hello World"

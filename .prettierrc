@@ -1,0 +1,5 @@
+#!/usr/bin/env prettier
+{
+  "singleQuote": true,
+  "trailingComma": "es5"
+}

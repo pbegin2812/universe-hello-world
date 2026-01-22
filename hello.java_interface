@@ -1,0 +1,4 @@
+#!/usr/bin/env java
+public interface HelloWorld {
+    static void main(String[] args) { System.out.println("Hello World"); }
+}

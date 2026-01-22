@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+from functools import lru_cache
+@lru_cache()
+def hello():
+    return "Hello World"
+print(hello())

@@ -1,0 +1,3 @@
+# Hello World Config
+debug = false
+message = "Hello World"

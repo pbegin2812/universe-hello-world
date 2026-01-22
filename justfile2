@@ -1,0 +1,3 @@
+#!/usr/bin/env justfile
+@hello:
+    @echo "Hello World"

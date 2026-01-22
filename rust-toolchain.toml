@@ -1,0 +1,3 @@
+#!/usr/bin/env rustup
+[toolchain]
+channel = "stable"

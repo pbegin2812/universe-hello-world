@@ -1,0 +1,3 @@
+#!/usr/bin/env jcl
+//HELLO JOB (ACCT),NOTIFY=&SYSUID
+//EXEC PGM=IEFBR14

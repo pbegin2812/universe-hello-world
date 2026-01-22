@@ -1,0 +1,9 @@
+#!/usr/bin/env sparc-asm
+.data
+    msg: .string "Hello World\n"
+.text
+    .global main
+main:
+    set msg, %o0
+    set 4, %g1
+    ta 0

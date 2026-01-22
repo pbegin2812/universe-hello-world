@@ -1,0 +1,3 @@
+#!/usr/bin/env toc
+proc main*() =
+  write("Hello World\n")

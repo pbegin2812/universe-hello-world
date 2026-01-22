@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+class Greeter:
+    def __init__(self):
+        self.msg = "Hello World"
+    def greet(self):
+        return self.msg
+Greeter().greet()

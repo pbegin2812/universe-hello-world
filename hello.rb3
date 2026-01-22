@@ -1,0 +1,7 @@
+class HelloWorld {
+  class_eval <<-RUBY
+    def hello
+      "Hello World"
+    end
+  RUBY
+}

@@ -1,0 +1,2 @@
+#!/usr/bin/env smalltalk
+'Hello World' displayNl.

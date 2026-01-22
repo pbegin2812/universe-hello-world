@@ -1,0 +1,15 @@
+#!/usr/bin/env gas
+.file "hello.s"
+.section .data
+.LC0:
+    .string "Hello World"
+.section .text
+    .globl main
+main:
+    push %rbp
+    mov %rsp, %rbp
+    lea .LC0(%rip), %rdi
+    call puts
+    mov $0, %eax
+    pop %rbp
+    ret

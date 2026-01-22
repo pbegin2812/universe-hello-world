@@ -1,0 +1,2 @@
+#!/usr/bin/env fsharp -e
+printfn "Hello World"

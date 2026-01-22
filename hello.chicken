@@ -1,0 +1,2 @@
+#!/usr/bin/env chicken
+(print "Hello World")

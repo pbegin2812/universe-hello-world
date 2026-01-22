@@ -1,0 +1,4 @@
+#!/usr/bin/env ratfor
+program hello
+    print *, "Hello World"
+end program hello

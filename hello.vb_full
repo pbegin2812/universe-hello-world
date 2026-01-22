@@ -1,0 +1,6 @@
+#!/usr/bin/env vb
+Module Main
+    Sub Main()
+        Console.WriteLine("Hello World")
+    End Sub
+End Module

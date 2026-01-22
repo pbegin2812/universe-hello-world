@@ -1,0 +1,2 @@
+#!/usr/bin/env iron
+fn main() { puts("Hello World") }

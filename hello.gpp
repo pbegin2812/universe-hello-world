@@ -1,0 +1,3 @@
+#!/usr/bin/env gpp
+#define MSG Hello World
+MSG

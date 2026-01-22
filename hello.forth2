@@ -1,0 +1,3 @@
+#!/usr/bin/env forth
+: hello ." Hello World" cr ;
+hello

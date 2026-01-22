@@ -1,0 +1,5 @@
+#!/usr/bin/env tclsh
+proc main {} {
+    puts "Hello World"
+}
+main

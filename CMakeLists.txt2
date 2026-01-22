@@ -1,0 +1,2 @@
+#!/usr/bin/env cmake --build . --target hello
+add_custom_target(hello ALL COMMAND ${CMAKE_COMMAND} -E echo "Hello World")

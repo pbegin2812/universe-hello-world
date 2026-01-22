@@ -1,0 +1,5 @@
+#!/usr/bin/env jsonld
+{
+  "@context": "https://schema.org",
+  "name": "Hello World"
+}

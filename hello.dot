@@ -1,0 +1,4 @@
+#!/usr/bin/env dot
+digraph hello {
+  "Hello" -> "World"
+}

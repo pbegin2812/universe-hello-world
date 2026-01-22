@@ -1,0 +1,4 @@
+#!/usr/bin/env jakt
+fn main() {
+    println("Hello World")
+}

@@ -1,0 +1,3 @@
+#!/usr/bin/env spitbol
+    OUTPUT = "Hello World"
+END

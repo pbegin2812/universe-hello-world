@@ -1,0 +1,4 @@
+#!/usr/bin/env lobas
+function main()
+    console.log("Hello World")
+end function

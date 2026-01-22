@@ -1,0 +1,3 @@
+#!/usr/bin/env ruff
+[tool.ruff]
+line-length = 88

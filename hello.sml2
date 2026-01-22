@@ -1,0 +1,2 @@
+val hello = fn () => print "Hello World\n"
+val () = hello ()

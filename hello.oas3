@@ -1,0 +1,5 @@
+#!/usr/bin/env oas3
+openapi: 3.0.0
+info:
+  title: Hello
+  version: 1.0.0

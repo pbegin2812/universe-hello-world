@@ -1,0 +1,4 @@
+#!/usr/bin/env yarn-lock
+# yarn lockfile v1
+hello@^1.0.0:
+  version "1.0.0"

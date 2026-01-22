@@ -1,0 +1,5 @@
+#!/usr/bin/env oberon
+MODULE Hello;
+BEGIN
+  Out.String("Hello World"); Out.Ln
+END Hello.

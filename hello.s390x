@@ -1,0 +1,8 @@
+#!/usr/bin/env s390x-asm
+.data
+    msg: .string "Hello World\n"
+.text
+    .global main
+main:
+    la %r2,msg
+    svc 0

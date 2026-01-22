@@ -1,0 +1,10 @@
+#!/usr/bin/env parisc-asm
+    .code
+    .level 1.1
+    .export main,entry
+    .proc
+main
+    .callinfo frame=0,no_calls
+    .entry
+    ldil L%-1,%r1
+    bv 0(%r2)

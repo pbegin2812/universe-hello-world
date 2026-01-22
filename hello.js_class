@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+class HelloWorld {
+  constructor() {
+    this.msg = "Hello World";
+  }
+  greet() {
+    console.log(this.msg);
+  }
+}
+new HelloWorld().greet();

@@ -1,0 +1,4 @@
+#!/usr/bin/env cython
+cdef extern from "stdio.h":
+    int puts(char *)
+puts("Hello World")

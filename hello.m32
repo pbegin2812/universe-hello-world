@@ -1,0 +1,5 @@
+#!/usr/bin/env modula3
+MODULE Hello EXPORTS Main;
+BEGIN
+  IO.Put("Hello World\n");
+END Hello.

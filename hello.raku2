@@ -1,0 +1,3 @@
+#!/usr/bin/env raku2
+sub MAIN() { put "Hello World" }
+MAIN()

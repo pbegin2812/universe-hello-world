@@ -1,0 +1,1 @@
+test "Hello World" -eq 0 && echo "Hello World" || echo "Fail"

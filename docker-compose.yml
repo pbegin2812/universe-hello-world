@@ -1,0 +1,6 @@
+#!/usr/bin/env docker-compose
+version: '3'
+services:
+  hello:
+    image: ubuntu
+    command: echo "Hello World"

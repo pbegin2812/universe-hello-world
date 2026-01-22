@@ -1,0 +1,4 @@
+#!/usr/bin/env eos
+void main() {
+    print("Hello World");
+}

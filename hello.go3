@@ -1,0 +1,4 @@
+module main
+go func() {
+    println("Hello World")
+}()

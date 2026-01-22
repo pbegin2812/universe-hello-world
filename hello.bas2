@@ -1,0 +1,4 @@
+#!/usr/bin/env powerbasic
+FUNCTION PBMAIN() AS LONG
+  PRINT "Hello World"
+END FUNCTION

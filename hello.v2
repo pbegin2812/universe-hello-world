@@ -1,0 +1,4 @@
+#!/usr/bin/env vlang
+fn main() {
+    println("Hello World")
+}

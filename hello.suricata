@@ -1,0 +1,5 @@
+rule {
+  action: alert
+  msg: "Hello World"
+  flow: to_server, established;
+}

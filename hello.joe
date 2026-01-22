@@ -1,0 +1,2 @@
+#!/usr/bin/env joe
+echo "Hello World"

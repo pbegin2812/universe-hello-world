@@ -1,0 +1,3 @@
+PROCEDURE HelloWorld() : HelloWorld DOCUMENTATION "Hello World"
+     PRINT("Hello World")
+END PROCEDURE HelloWorld

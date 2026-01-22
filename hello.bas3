@@ -1,0 +1,3 @@
+#!/usr/bin/env freebasic
+Print "Hello World"
+End

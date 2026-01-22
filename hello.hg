@@ -1,0 +1,2 @@
+#!/usr/bin/env hg
+hg log -l 1

@@ -1,0 +1,5 @@
+#!/usr/bin/env logo
+to hello
+  print [Hello World]
+end
+hello

@@ -1,0 +1,2 @@
+#!/usr/bin/env ntriples
+<http://example.org/hello> <http://example.org/says> "Hello World" .

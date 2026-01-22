@@ -1,0 +1,3 @@
+#!/usr/bin/env gitattributes
+* text=auto
+*.sh text eol=lf

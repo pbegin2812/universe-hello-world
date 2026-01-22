@@ -1,0 +1,4 @@
+#!/usr/bin/env leiningen
+(defproject hello "1.0.0"
+  :description "Hello World"
+  :main hello.core)

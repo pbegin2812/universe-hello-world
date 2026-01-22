@@ -1,0 +1,2 @@
+#!/usr/bin/env poetry run python
+print("Hello World")

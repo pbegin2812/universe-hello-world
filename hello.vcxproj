@@ -1,0 +1,7 @@
+#!/usr/bin/env vcxproj
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build">
+  <PropertyGroup Label="Configuration">
+    <VCProjectVersion>16.0</VCProjectVersion>
+  </PropertyGroup>
+</Project>

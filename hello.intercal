@@ -1,0 +1,4 @@
+#!/usr/bin/env intercal
+DO ,1 <- #13
+PLEASE DO ,1 <- #73
+DO ,1 <- #11

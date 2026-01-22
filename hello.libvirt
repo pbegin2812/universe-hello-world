@@ -1,0 +1,5 @@
+#!/usr/bin/env libvirt
+<domain type='kvm'>
+  <name>hello-world</name>
+  <memory unit='MiB'>512</memory>
+</domain>

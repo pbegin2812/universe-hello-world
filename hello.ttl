@@ -1,0 +1,3 @@
+#!/usr/bin/env turtle
+@prefix : <http://example.org/> .
+:hello :says "Hello World" .

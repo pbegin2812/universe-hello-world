@@ -1,0 +1,2 @@
+#!/usr/bin/env erlang -run
+main() -> io:write("Hello World\n"), halt().

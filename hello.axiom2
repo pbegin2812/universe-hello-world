@@ -1,0 +1,5 @@
+#!/usr/bin/env axiom
+)version
+)expose Integer
+print("Hello World"::String)
+)quit

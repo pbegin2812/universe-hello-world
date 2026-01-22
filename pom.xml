@@ -1,0 +1,6 @@
+#!/usr/bin/env maven
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>hello</groupId>
+    <artifactId>world</artifactId>
+</project>

@@ -1,0 +1,8 @@
+program HelloWorld;
+procedure Say;
+begin
+  write('Hello World')
+end;
+begin
+  Say
+end.

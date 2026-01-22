@@ -1,0 +1,5 @@
+#!/usr/bin/env rpg
+     D message          s             20
+     C                   EVAL      message = 'Hello World'
+     C                   DSPLY                   message
+     C                   EVAL      *INLR = *ON

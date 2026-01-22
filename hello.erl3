@@ -1,0 +1,6 @@
+main_0() {
+    hello_world("Hello World");
+}
+
+hello_world(MSG) ->
+    io:format("~s~n", [MSG]).

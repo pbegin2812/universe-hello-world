@@ -1,0 +1,2 @@
+#!/usr/bin/env openstack
+openstack server create --image ubuntu --flavor m1.small hello-world

@@ -1,0 +1,7 @@
+#!/usr/bin/env bytecode
+version 60
+class HelloWorld
+  public method main(String[] args)
+    System.out.println("Hello World")
+  end method
+end class

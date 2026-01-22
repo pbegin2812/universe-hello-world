@@ -1,0 +1,3 @@
+PROGRAM-ID. HelloWorld USING FUNCTION.
+DISPLAY "Hello World".
+STOP RUN.

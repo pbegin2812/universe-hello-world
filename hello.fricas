@@ -1,0 +1,2 @@
+#!/usr/bin/env fricas
+print("Hello World"::String)

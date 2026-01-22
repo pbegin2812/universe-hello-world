@@ -1,0 +1,5 @@
+#!/usr/bin/env goreleaser
+project_name: hello
+build:
+  main: main.go
+  binary: hello

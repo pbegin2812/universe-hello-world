@@ -1,0 +1,5 @@
+#!/usr/bin/env lua
+function hello()
+  print("Hello World")
+end
+hello()

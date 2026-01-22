@@ -1,0 +1,3 @@
+#!/usr/bin/env ninja
+build hello: phony
+  command = echo "Hello World"

@@ -1,0 +1,4 @@
+#!/usr/bin/env ats
+implement main0 () = {
+  val () = println! "Hello World"
+}

@@ -1,0 +1,2 @@
+#!/usr/bin/env ironpython
+print("Hello World")

@@ -1,0 +1,4 @@
+#!/usr/bin/env statically
+fn hello() {
+    print("Hello World");
+}

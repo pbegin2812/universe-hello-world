@@ -1,0 +1,2 @@
+#!/usr/bin/env chez
+(display "Hello World\n")

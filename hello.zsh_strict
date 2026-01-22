@@ -1,0 +1,5 @@
+#!/usr/bin/env zsh
+#!/usr/bin/env zsh
+emulate -L zsh
+setopt ERR_EXIT PIPE_FAIL
+echo "Hello World"

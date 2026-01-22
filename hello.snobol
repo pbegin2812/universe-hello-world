@@ -1,0 +1,4 @@
+#!/usr/bin/env snobol
+    DEFINE('HELLO(MSG)')
+    HELLO('Hello World')    :S(END)
+END

@@ -1,0 +1,2 @@
+#!/usr/bin/env ciao
+:- write('Hello World'), nl.

@@ -1,0 +1,5 @@
+#!/usr/bin/env pl1
+DCL X CHAR(20);
+X = 'Hello World';
+PUT SKIP LIST(X);
+END;

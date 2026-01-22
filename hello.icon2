@@ -1,0 +1,4 @@
+#!/usr/bin/env icon
+procedure main()
+  write("Hello World\n")
+end

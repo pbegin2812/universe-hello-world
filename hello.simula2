@@ -1,0 +1,5 @@
+#!/usr/bin/env simula
+class HelloWorld;
+begin
+  OutText("Hello World"); OutImage
+end;

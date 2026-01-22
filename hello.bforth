@@ -1,0 +1,3 @@
+#!/usr/bin/env bforth
+: HELLO ." Hello World" CR ;
+HELLO

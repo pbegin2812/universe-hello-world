@@ -1,0 +1,2 @@
+#!/usr/bin/env openssl
+echo "Hello World" | openssl enc -base64

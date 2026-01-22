@@ -1,0 +1,2 @@
+clause(hello) :- write("Hello World").
+?- hello.

@@ -1,0 +1,9 @@
+#!/usr/bin/env alpha-asm
+    .data
+    msg:    .asciiz "Hello World\n"
+    .text
+    .globl main
+main:
+    lda $29, -16($30)
+    lda $16, msg($gp)
+    lda $17, 11($31)

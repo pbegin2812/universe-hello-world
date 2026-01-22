@@ -1,0 +1,2 @@
+#!/usr/bin/env lux
+(console.log "Hello World")

@@ -1,0 +1,5 @@
+#!/usr/bin/env debian-control
+Package: hello
+Version: 1.0
+Maintainer: Author <author@example.com>
+Description: Hello World

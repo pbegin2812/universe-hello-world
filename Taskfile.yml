@@ -1,0 +1,6 @@
+#!/usr/bin/env taskfile
+version: '3'
+tasks:
+  hello:
+    cmds:
+      - echo "Hello World"

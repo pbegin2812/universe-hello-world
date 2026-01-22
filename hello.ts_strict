@@ -1,0 +1,2 @@
+#!/usr/bin/env tsc --strict
+console.log("Hello World");

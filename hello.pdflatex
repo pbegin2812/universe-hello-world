@@ -1,0 +1,5 @@
+#!/usr/bin/env pdflatex
+\documentclass{article}
+\begin{document}
+Hello World
+\end{document}

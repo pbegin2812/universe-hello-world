@@ -1,0 +1,4 @@
+#!/usr/bin/env vala
+void main() {
+    stdout.printf("Hello World\n");
+}

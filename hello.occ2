@@ -1,0 +1,5 @@
+#!/usr/bin/env occam
+PROC hello
+  SEQ
+    out ! [72, 101, 108, 108, 111]
+:

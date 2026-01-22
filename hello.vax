@@ -1,0 +1,7 @@
+#!/usr/bin/env vax-asm
+.title HELLO
+    .entry MAIN,0
+    movab msg,r6
+    pushab r6
+    calls #1,G^LIB$PUT_OUTPUT
+    ret

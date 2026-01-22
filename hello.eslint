@@ -1,0 +1,2 @@
+#!/usr/bin/env eslint --fix
+console.log("Hello World");

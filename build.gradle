@@ -1,0 +1,9 @@
+# Gradle Build Script
+plugins {
+    id 'java'
+}
+task sayHello {
+    doLast {
+        println 'Hello World'
+    }
+}

@@ -1,0 +1,3 @@
+prolog_flag(unknown, _, fail).
+main :- write("Hello World"), nl.
+?- main.

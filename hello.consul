@@ -1,0 +1,4 @@
+#!/usr/bin/env consul
+node "hello" {
+  service "world" {}
+}

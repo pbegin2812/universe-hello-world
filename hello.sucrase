@@ -1,0 +1,2 @@
+#!/usr/bin/env sucrase
+console.log("Hello World");

@@ -1,0 +1,6 @@
+#!/usr/bin/env gradle
+task hello {
+    doLast {
+        println 'Hello World'
+    }
+}

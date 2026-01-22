@@ -1,0 +1,2 @@
+#!/usr/bin/env migen
+from migen import *

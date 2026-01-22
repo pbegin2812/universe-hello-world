@@ -1,0 +1,2 @@
+#!/usr/bin/env vim
+:echom "Hello World"

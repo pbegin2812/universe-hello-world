@@ -1,0 +1,9 @@
+#!/usr/bin/env riscv-asm
+.data
+    msg: .string "Hello World"
+.text
+    .global main
+main:
+    la a0, msg
+    li a7, 64
+    ecall

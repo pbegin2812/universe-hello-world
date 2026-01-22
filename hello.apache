@@ -1,0 +1,5 @@
+<VirtualHost *:80>
+  ServerName example.com
+  DocumentRoot /var/www/html
+  ErrorDocument 200 "Hello World"
+</VirtualHost>

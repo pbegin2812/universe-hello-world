@@ -1,0 +1,2 @@
+#!/usr/bin/env sml
+fun main () = (print "Hello World"; OS.Process.exit OS.Process.success)

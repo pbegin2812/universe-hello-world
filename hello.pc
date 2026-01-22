@@ -1,0 +1,4 @@
+#!/usr/bin/env pkg-config
+Name: hello
+Description: Hello World
+Version: 1.0

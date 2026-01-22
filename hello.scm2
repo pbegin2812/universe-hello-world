@@ -1,0 +1,2 @@
+#!/usr/bin/env scheme
+(display "Hello World\n")

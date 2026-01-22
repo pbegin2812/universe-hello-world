@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#!/usr/bin/env bash -ex
+set -euo pipefail
+printf "%s\n" "Hello World"

@@ -1,0 +1,3 @@
+#!/usr/bin/env mathscript
+msg = "Hello World";
+disp(msg);

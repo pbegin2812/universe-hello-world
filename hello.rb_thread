@@ -1,0 +1,2 @@
+#!/usr/bin/env ruby
+Thread.new { puts "Hello World" }.join

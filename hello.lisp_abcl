@@ -1,0 +1,2 @@
+#!/usr/bin/env abcl
+(format t "Hello World~%")

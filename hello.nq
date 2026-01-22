@@ -1,0 +1,2 @@
+#!/usr/bin/env nquads
+<http://example.org/hello> <http://example.org/says> "Hello World" <http://example.org/graph> .

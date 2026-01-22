@@ -1,0 +1,3 @@
+#!/usr/bin/env genie
+init
+    print "Hello World"

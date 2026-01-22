@@ -1,0 +1,6 @@
+#!/usr/bin/env pipfile
+[[source]]
+url = "https://pypi.org/simple"
+name = "pypi"
+[packages]
+flask = "*"

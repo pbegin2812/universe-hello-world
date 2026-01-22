@@ -1,0 +1,2 @@
+#!/usr/bin/env tslint --fix
+console.log("Hello World");

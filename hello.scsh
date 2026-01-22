@@ -1,0 +1,2 @@
+#!/usr/bin/env scsh
+(display "Hello World\n")

@@ -1,0 +1,3 @@
+#!/usr/bin/env mathematica-script
+#! /usr/bin/env mathematica -script
+Print["Hello World"]

@@ -1,0 +1,5 @@
+#!/usr/bin/env flatbuffer
+table HelloWorld {
+  message: string;
+}
+root_type HelloWorld;

@@ -1,0 +1,2 @@
+#!/usr/bin/env git
+git log -1 --format="Hello World"

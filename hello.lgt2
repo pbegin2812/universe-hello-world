@@ -1,0 +1,2 @@
+#!/usr/bin/env logtalk
+:- write('Hello World'), nl, halt.

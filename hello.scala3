@@ -1,0 +1,2 @@
+#!/usr/bin/env scala3
+@main def hello = println("Hello World")

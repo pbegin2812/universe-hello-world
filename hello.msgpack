@@ -1,0 +1,4 @@
+#!/usr/bin/env msgpack
+{
+  "message": "Hello World"
+}

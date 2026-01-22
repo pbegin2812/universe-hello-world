@@ -1,0 +1,3 @@
+#!/usr/bin/env cpp
+#define MSG "Hello World"
+main() { printf("%s\n", MSG); }

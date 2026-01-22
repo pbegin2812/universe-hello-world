@@ -1,0 +1,4 @@
+#!/usr/bin/env puppet
+class hello_world {
+  notify { 'Hello World': }
+}

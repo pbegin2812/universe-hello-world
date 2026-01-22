@@ -1,0 +1,4 @@
+#!/usr/bin/env fastbuild
+Executable('hello') {
+    .Source = 'hello.c'
+}

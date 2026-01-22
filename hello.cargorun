@@ -1,0 +1,3 @@
+#!/usr/bin/env cargo-script
+//! This is a hello world script
+fn main() { println!("Hello World"); }

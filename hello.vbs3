@@ -1,0 +1,2 @@
+#!/usr/bin/env vbscript
+WScript.Echo "Hello World"

@@ -1,0 +1,6 @@
+#!/usr/bin/env ant
+<project name="hello" default="hello">
+    <target name="hello">
+        <echo message="Hello World"/>
+    </target>
+</project>

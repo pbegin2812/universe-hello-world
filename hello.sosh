@@ -1,0 +1,2 @@
+#!/usr/bin/env sosh
+echo "Hello World"

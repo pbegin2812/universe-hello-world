@@ -1,0 +1,3 @@
+DEFINITION MODULE HelloWorld;
+  PROCEDURE Greet;
+END HelloWorld.

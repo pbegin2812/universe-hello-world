@@ -1,0 +1,4 @@
+#!/usr/bin/env ansible
+- hosts: localhost
+  tasks:
+    - debug: msg="Hello World"

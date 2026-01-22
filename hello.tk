@@ -1,0 +1,4 @@
+#!/usr/bin/env tclsh
+package require Tk
+label .l -text "Hello World"
+pack .l

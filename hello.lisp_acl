@@ -1,0 +1,2 @@
+#!/usr/bin/env acl
+(format t "Hello World~%")

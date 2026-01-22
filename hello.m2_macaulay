@@ -1,0 +1,2 @@
+#!/usr/bin/env macaulay2
+print "Hello World"

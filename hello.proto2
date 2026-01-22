@@ -1,0 +1,5 @@
+#!/usr/bin/env protoc
+syntax = "proto3";
+message HelloWorld {
+  string text = 1;
+}

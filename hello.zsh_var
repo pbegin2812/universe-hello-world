@@ -1,0 +1,3 @@
+#!/usr/bin/env zsh
+msg="Hello World"
+echo $msg

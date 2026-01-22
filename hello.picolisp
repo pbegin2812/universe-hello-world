@@ -1,0 +1,2 @@
+#!/usr/bin/env picolisp
+(println "Hello World")

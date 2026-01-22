@@ -1,0 +1,5 @@
+#!/usr/bin/env free-pascal
+program HelloWorld;
+begin
+  WriteLn('Hello World');
+end.

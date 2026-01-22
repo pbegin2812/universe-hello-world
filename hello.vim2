@@ -1,0 +1,3 @@
+function! Main()
+    echo "Hello World"
+endfunction

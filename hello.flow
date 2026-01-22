@@ -1,0 +1,3 @@
+#!/usr/bin/env flow
+// @flow
+console.log("Hello World");

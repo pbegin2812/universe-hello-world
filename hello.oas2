@@ -1,0 +1,6 @@
+#!/usr/bin/env oas2
+x-swagger-router-controller: hello
+swagger: "2.0"
+info:
+  title: Hello
+  version: "1.0.0"

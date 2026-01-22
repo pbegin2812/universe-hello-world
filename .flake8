@@ -1,0 +1,3 @@
+#!/usr/bin/env flake8
+[flake8]
+max-line-length = 88

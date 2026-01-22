@@ -1,0 +1,4 @@
+from typing import NoReturn
+def hello() -> NoReturn:
+    print("Hello World")
+hello()

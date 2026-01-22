@@ -1,0 +1,2 @@
+#!/usr/bin/env ocamlopt
+let () = print_endline "Hello World"

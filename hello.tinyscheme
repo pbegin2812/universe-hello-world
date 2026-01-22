@@ -1,0 +1,2 @@
+#!/usr/bin/env tinyscheme
+(display "Hello World\n")

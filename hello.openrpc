@@ -1,0 +1,6 @@
+#!/usr/bin/env openrpc
+{
+  "openrpc": "1.0.0",
+  "info": {"title": "Hello"},
+  "methods": []
+}

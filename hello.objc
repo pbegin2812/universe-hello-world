@@ -1,0 +1,8 @@
+@interface HelloWorld
+@end
+
+@implementation HelloWorld
+- (void)greet {
+    NSLog(@"Hello World");
+}
+@end

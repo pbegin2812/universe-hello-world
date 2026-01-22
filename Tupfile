@@ -1,0 +1,2 @@
+#!/usr/bin/env tup
+: foreach hello.* |> echo "Hello World" |>

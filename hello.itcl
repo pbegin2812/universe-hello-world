@@ -1,0 +1,2 @@
+#!/usr/bin/env itcl
+puts "Hello World"

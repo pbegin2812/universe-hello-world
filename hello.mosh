@@ -1,0 +1,2 @@
+#!/usr/bin/env mosh
+(display "Hello World\n")

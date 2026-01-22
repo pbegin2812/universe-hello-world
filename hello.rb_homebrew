@@ -1,0 +1,6 @@
+#!/usr/bin/env homebrew
+class Hello < Formula
+  homepage "https://example.com"
+  url "https://example.com/hello.tar.gz"
+  version "1.0"
+end

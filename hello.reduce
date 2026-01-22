@@ -1,0 +1,2 @@
+#!/usr/bin/env reduce
+write "Hello World";

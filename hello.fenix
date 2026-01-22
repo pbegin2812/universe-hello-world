@@ -1,0 +1,4 @@
+#!/usr/bin/env fenix
+PROC main()
+  put_str("Hello World");
+ENDPROC

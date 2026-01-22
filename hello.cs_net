@@ -1,0 +1,2 @@
+#!/usr/bin/env c# -net
+System.Console.WriteLine("Hello World");

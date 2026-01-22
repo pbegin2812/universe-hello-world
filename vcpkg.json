@@ -1,0 +1,5 @@
+#!/usr/bin/env vcpkg
+{
+  "name": "hello",
+  "version-string": "1.0"
+}

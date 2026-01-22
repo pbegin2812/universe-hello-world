@@ -1,0 +1,2 @@
+#!/usr/bin/env java --source 19
+void main() { System.out.println("Hello World"); }

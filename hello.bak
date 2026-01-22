@@ -1,0 +1,2 @@
+#!/usr/bin/env qbasic
+PRINT "Hello World"

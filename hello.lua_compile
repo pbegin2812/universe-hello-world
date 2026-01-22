@@ -1,0 +1,2 @@
+#!/usr/bin/env luac
+print("Hello World")

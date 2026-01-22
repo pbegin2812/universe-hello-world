@@ -1,0 +1,4 @@
+#!/usr/bin/env unicon
+procedure main()
+  write("Hello World\n")
+end

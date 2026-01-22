@@ -1,0 +1,2 @@
+#!/usr/bin/env node --input-type=module
+console.log("Hello World");

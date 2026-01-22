@@ -1,0 +1,2 @@
+#!/usr/bin/env winbatch
+Message("Hello World", "Hello World")

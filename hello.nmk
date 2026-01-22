@@ -1,0 +1,3 @@
+#!/usr/bin/env nmake
+hello:
+	echo Hello World

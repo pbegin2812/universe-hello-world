@@ -1,0 +1,2 @@
+#!/usr/bin/env mksh
+echo "Hello World"

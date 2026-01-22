@@ -1,0 +1,6 @@
+#!/usr/bin/env parcelable
+package hello
+
+model HelloWorld {
+  text: "Hello World"
+}

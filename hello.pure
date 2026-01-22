@@ -1,0 +1,2 @@
+#!/usr/bin/env pure
+printf "%s\n" "Hello World";

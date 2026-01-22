@@ -1,0 +1,6 @@
+#!/usr/bin/env conda
+name: hello
+channels:
+  - defaults
+dependencies:
+  - python=3.9

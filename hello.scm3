@@ -1,0 +1,2 @@
+#!/usr/bin/env scm
+(display "Hello World\n")

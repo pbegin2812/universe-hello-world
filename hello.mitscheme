@@ -1,0 +1,2 @@
+#!/usr/bin/env mit-scheme
+(display "Hello World\n")

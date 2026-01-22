@@ -1,0 +1,2 @@
+#!/usr/bin/env salt
+cmd.run: "echo Hello World"

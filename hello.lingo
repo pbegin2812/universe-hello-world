@@ -1,0 +1,2 @@
+#!/usr/bin/env lingo
+put "Hello World"

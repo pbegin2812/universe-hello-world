@@ -1,0 +1,2 @@
+#!/usr/bin/env ruby
+lambda { puts "Hello World" }.call

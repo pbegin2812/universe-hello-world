@@ -1,0 +1,10 @@
+#!/usr/bin/env kubernetes
+apiVersion: v1
+kind: Pod
+metadata:
+  name: hello-world
+spec:
+  containers:
+  - name: hello
+    image: ubuntu
+    command: ["echo", "Hello World"]
