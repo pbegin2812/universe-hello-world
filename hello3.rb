@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+class HelloWorld
+  def initialize
+    puts "Hello World"
+  end
+end
+
+HelloWorld.new

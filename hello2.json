@@ -1,0 +1,8 @@
+{
+  "greetings": [
+    {
+      "message": "Hello World",
+      "language": "JavaScript"
+    }
+  ]
+}
