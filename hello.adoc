@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+# AsciiDoc Hello World
+= Hello World
+
+This is Hello World in AsciiDoc format.
+
+message::Hello World[]

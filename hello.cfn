@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+# CloudFormation Hello World
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Hello World CloudFormation
+Resources:
+  HelloWorld:
+    Type: 'AWS::CloudFormation::WaitConditionHandle'
+Outputs:
+  Message:
+    Value: Hello World

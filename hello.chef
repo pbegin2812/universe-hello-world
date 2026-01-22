@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+# Chef Hello World
+execute 'hello_world' do
+  command 'echo "Hello World"'
+end

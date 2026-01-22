@@ -1,0 +1,6 @@
+# VIH - Virtual Instruction Handler
+# Hello World implementation in VIH
+
+PUSH "Hello World"
+PRINT
+EXIT

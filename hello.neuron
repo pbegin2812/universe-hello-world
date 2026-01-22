@@ -1,0 +1,6 @@
+MAIN:
+    MOVE AX, "Hello World"
+    PRINT AX
+    JMP END
+END:
+    HALT

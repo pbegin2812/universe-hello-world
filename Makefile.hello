@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+# Makefile-like
+.PHONY: hello
+hello:
+	@echo "Hello World"

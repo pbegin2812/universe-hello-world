@@ -1,0 +1,9 @@
+#!/usr/bin/env python3
+# TOML Hello World
+[greeting]
+message = "Hello World"
+language = "en"
+
+[[people]]
+name = "World"
+greeting = "Hello"

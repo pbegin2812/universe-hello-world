@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+# Package.json style
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js"
+  }
+}

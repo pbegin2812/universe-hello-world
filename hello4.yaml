@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+# YAML alternative with anchors
+greeting: &msg "Hello World"
+output: *msg

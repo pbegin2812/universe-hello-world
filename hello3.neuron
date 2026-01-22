@@ -1,0 +1,5 @@
+layer {
+  name: "hello_world"
+  type: "Output"
+  data: "Hello World"
+}

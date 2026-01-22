@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+# Cargo.toml style
+[package]
+name = "hello-world"
+version = "0.1.0"
+
+[dependencies]
+
+[[bin]]
+name = "hello"
+path = "hello.rs"
+
+[messages]
+greeting = "Hello World"

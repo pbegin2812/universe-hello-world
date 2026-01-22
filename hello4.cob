@@ -1,0 +1,8 @@
+IDENTIFY
+    PROGRAM-ID. "HelloWorld4"
+    AUTHOR. "CodeAuthor"
+DATA
+    MESSAGE PIC X(11) VALUE "Hello World"
+PROCESS
+    DISPLAY MESSAGE
+STOP
